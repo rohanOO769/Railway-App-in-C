@@ -3,7 +3,8 @@ This is a simple command-line application that allows users to book and cancel t
 
 # Installation
 Clone this repository to your local machine.
-Compile the app.c file using a C compiler. For example, using gcc: gcc app.c -o app.
+Compile the app.c file using a C compiler. 
+For example, using gcc: gcc app.c -o app.
 Run the app executable to start the application.
 
 # Usage
